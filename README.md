@@ -11,9 +11,8 @@ function App() {
       Frequency: Daily,
       Contact 💬 : 
           Email : ali.ismayil.681@gmail.com , 
-          Linkedin : ... , 
-          İnstagram : Ali.Ismayil_ ,
-          Twitter : ...
+          Linkedin : Ali İsmayıl , 
+          İnstagram : Ali.Ismayil_ 
     <h1> Thank You 👊🏻 </h1>
     </div>
   )
