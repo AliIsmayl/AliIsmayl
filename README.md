@@ -7,7 +7,8 @@ function App() {
     <div className="AboutMe">
       Name : Ali İsmayılzade,
       Portfolio : ... , 
-      About : Front End Developer 👨🏻‍💻, 
+      About : Front End Developer 👨🏻‍💻,
+      Experience : 2 years,
       Frequency: Daily,
       Contact 💬 : 
           Email : ali.ismayil.681@gmail.com , 
